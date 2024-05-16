@@ -10,3 +10,5 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+<br>
+acceso al proyecto: https://6646706e5b0c790cf6326691--gustavo-vite-app.netlify.app/
